@@ -33,7 +33,7 @@ public class CrudOperationsApplication {
 //		Student student1 = new Student();
 //		student1.setName("Ganesh");
 //		student1.setRollNo(2);
-//		student1.setStd(4);
+//		student1.setStd(5);
 //		
 //		Student student2 = new Student();
 //		student2.setName("Ankit");
